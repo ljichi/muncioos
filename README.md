@@ -1,4 +1,4 @@
-# muncioOS
+# Konfident Linux
 --System operacyjny oparty na arch linux--
 
 W planach jest stworzyć distro archa na środowisku KDE Plasma wraz z wbudowanymi podstawowymi pakietami takimi jak AMD/Intel ucode, kernelem linuxa, firefoxem i czymś jeszcze.
